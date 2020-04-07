@@ -64,3 +64,7 @@ On success, the function returns the *number of variables filled*. In the case o
 ## Day 5: Loop your world
 
 [Solution](5-Factorial.cpp)
+
+## Day 6: How Much Big Is Your Numbe
+
+[Solution](6-N_Digits.cpp)
