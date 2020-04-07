@@ -4,7 +4,7 @@
 * Links after the solution are references
 * New syntax learned in summarized
 
-## 1. Hello TechGig
+## Day 1: Hello TechGig
 
 [Solution](1-Hello.cpp)
 
@@ -28,7 +28,7 @@ istream& getline(istream& is, string& str, char delim);
 
 **Returns**: This function returns the same input stream as is which is accepted as parameter.
 
-## 2. Exploring Data Types
+## Day 2: Exploring Data Types
 
 [Solution](2-Data_Types.cpp)
 
@@ -53,6 +53,6 @@ int sscanf(const char *str, const char *format, ...)
 **Returns**:
 On success, the function returns the *number of variables filled*. In the case of an input failure before any data could be successfully read, EOF is returned.
 
-## 3. Play with operators
+## Day 3: Play with operators
 
 [Solution](3-Operators.cpp)
