@@ -2,7 +2,7 @@
 
 * All programs are written in C++
 * Links after the solution are references
-* New syntax learned in summarized
+* New syntax learned is summarized
 
 ## Day 1: Hello TechGig
 
@@ -14,7 +14,7 @@
 
 ### Syntax
 
-```cpp
+```C++
 istream& getline(istream& is, string& str, char delim);
 ```
 
@@ -39,7 +39,7 @@ istream& getline(istream& is, string& str, char delim);
 
 ### Syntax
 
-```c
+```C
 int sscanf(const char *str, const char *format, ...)
 ```
 
@@ -56,3 +56,7 @@ On success, the function returns the *number of variables filled*. In the case o
 ## Day 3: Play with operators
 
 [Solution](3-Operators.cpp)
+
+## Day 4: Decide yourself with conditional statement
+
+[Solution](4-Conditionals.cpp)
