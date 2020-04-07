@@ -14,7 +14,7 @@
 
 ### Syntax
 
-```C++
+```c++
 istream& getline(istream& is, string& str, char delim);
 ```
 
@@ -39,7 +39,7 @@ istream& getline(istream& is, string& str, char delim);
 
 ### Syntax
 
-```C
+```c++
 int sscanf(const char *str, const char *format, ...)
 ```
 
@@ -60,3 +60,7 @@ On success, the function returns the *number of variables filled*. In the case o
 ## Day 4: Decide yourself with conditional statement
 
 [Solution](4-Conditionals.cpp)
+
+## Day 5: Loop your world
+
+[Solution](5-Factorial.cpp)
