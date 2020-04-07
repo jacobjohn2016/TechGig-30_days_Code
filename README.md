@@ -52,3 +52,7 @@ int sscanf(const char *str, const char *format, ...)
 
 **Returns**:
 On success, the function returns the *number of variables filled*. In the case of an input failure before any data could be successfully read, EOF is returned.
+
+## 3. Play with operators
+
+[Solution](3-Operators.cpp)
