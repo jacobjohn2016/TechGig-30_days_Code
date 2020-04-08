@@ -65,6 +65,17 @@ On success, the function returns the *number of variables filled*. In the case o
 
 [Solution](5-Factorial.cpp)
 
-## Day 6: How Much Big Is Your Numbe
+## Day 6: How Much Big Is Your Number
 
 [Solution](6-N_Digits.cpp)
+
+## Day 7 : Count special numbers between boundaries
+
+[Solution](7-Primes.cpp)
+
+### References
+
+1. [GFG - Primality Test using Fermat's Theorem](https://www.geeksforgeeks.org/primality-test-set-2-fermet-method/)
+2. [GFG - Iterative power function](https://www.geeksforgeeks.org/write-an-iterative-olog-y-function-for-powx-y/)
+3. [GFG - Calculate Power](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/)
+4. [GFG - Modular Exponentiation](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
