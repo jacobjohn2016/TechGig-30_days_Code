@@ -73,6 +73,10 @@ On success, the function returns the *number of variables filled*. In the case o
 
 [Solution](7-Primes.cpp)
 
+### Practice
+
+1. [Calculate Power (Recursive)](7-Calculate_Power_Recursive.cpp)
+
 ### References
 
 1. [GFG - Primality Test using Fermat's Theorem](https://www.geeksforgeeks.org/primality-test-set-2-fermet-method/)
