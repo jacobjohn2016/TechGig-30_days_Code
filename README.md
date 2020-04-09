@@ -83,3 +83,7 @@ On success, the function returns the *number of variables filled*. In the case o
 2. [GFG - Iterative power function](https://www.geeksforgeeks.org/write-an-iterative-olog-y-function-for-powx-y/)
 3. [GFG - Calculate Power](https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/)
 4. [GFG - Modular Exponentiation](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
+
+## Day 8: Is your Number Armstrong?
+
+[Solution](8-Armstrong.cpp)
