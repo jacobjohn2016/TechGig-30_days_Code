@@ -87,3 +87,26 @@ On success, the function returns the *number of variables filled*. In the case o
 ## Day 8: Is your Number Armstrong?
 
 [Solution](8-Armstrong.cpp)
+
+### References
+
+1. [GFG - Ternary Operator](https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c-c/)
+
+### Syntax
+
+```c++
+variable = Expression1 ? Expression2 : Expression3;
+```
+
+Can also be visualized as:
+
+```c++
+if(Expression1)
+{
+    variable = Expression2;
+}
+else
+{
+    variable = Expression3;
+}
+```
