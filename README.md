@@ -110,3 +110,8 @@ else
     variable = Expression3;
 }
 ```
+
+## Day 9: Is Your Number Narcissistic?
+
+[Solution](9-Narcissistic.cpp)
+
