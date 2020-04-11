@@ -115,3 +115,14 @@ else
 
 [Solution](9-Narcissistic.cpp)
 
+## Day 10: Who's the second largest?
+
+[Solution](10-Second_largest.cpp)
+
+### References
+
+1. [GFG - Second largest](https://www.geeksforgeeks.org/find-second-largest-element-array/)
+
+## Day 11: Count the letters
+
+[Solution](11-Count_letters.cpp)
