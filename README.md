@@ -126,3 +126,7 @@ else
 ## Day 11: Count the letters
 
 [Solution](11-Count_letters.cpp)
+
+## Day 12: Patch Up Two Matrices
+
+[Solution](12-Matrix_addition.cpp)
