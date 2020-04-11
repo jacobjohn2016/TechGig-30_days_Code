@@ -123,6 +123,14 @@ else
 
 1. [GFG - Second largest](https://www.geeksforgeeks.org/find-second-largest-element-array/)
 
+### Syntax
+
+Single array initialization in C++:
+
+```C++
+int* arr = new int[n];
+```
+
 ## Day 11: Count the letters
 
 [Solution](11-Count_letters.cpp)
@@ -130,3 +138,25 @@ else
 ## Day 12: Patch Up Two Matrices
 
 [Solution](12-Matrix_addition.cpp)
+
+### References
+
+1. [Stackoverflow - 2D Array Intialization](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)
+
+### Syntax
+
+A dynamic 2D array is basically an array of pointers to arrays. You can initialize it using a loop, like this:
+
+```C++
+int** a = new int*[rowCount];
+for(int i = 0; i < rowCount; ++i)
+    a[i] = new int[colCount];
+```
+
+The above, for `colCount= 5` and `rowCount = 4`, would produce the following:
+
+![2D array initialization](https://i.stack.imgur.com/M75kn.png "2D array initialization")
+
+## Day 13: Roll your matrix
+
+[Solution](13-Transpose.cpp)
